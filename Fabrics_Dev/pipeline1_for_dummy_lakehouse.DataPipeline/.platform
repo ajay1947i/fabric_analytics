@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "DataPipeline",
+    "displayName": "pipeline1_for_dummy_lakehouse"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "aa5996ed-a252-8c9b-40ca-ae8bcaffefd8"
+  }
+}
