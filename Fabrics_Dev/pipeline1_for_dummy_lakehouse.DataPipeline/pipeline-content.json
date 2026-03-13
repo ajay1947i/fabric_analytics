@@ -227,6 +227,10 @@
       "env": {
         "type": "string",
         "defaultValue": "DEV"
+      },
+      "env_new_param": {
+        "type": "string",
+        "defaultValue": "DEV"
       }
     }
   }
